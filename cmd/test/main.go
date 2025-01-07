@@ -22,7 +22,7 @@ func main() {
 	}
 
 	cfg := config.Config{
-		Version:      "1.4.0",
+		Version:      "1.3.7",
 		Directory:    "db",
 		BlockLists:   []string{},
 		BlockListDir: "",
